@@ -1,0 +1,1 @@
+# git-clone-https-github.com-uzair-ashraf-genshin-impact-wish-simulator.git-cd-genshin-impact-wish-s
